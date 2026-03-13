@@ -1,2 +1,2 @@
-# Panchakshari-S
-this repo for practice
+March-2026 Batch
+Practice Repository 
